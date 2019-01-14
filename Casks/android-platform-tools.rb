@@ -1,5 +1,5 @@
 cask 'android-platform-tools' do
-  version '28.0.1'
+  version '25.0.5'
   sha256 '3bc833ae3f4bd831af03811f2d1be540c2eb2eb9a17de9398b0a06dc5af6fa84'
 
   # google.com/android/repository/platform-tools was verified as official when first introduced to the cask
